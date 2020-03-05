@@ -1,1 +1,1 @@
-# API-for-a-Clipboard-Project
+REST API to store JSON data in a SQL-Alchemy database.
